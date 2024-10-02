@@ -1,0 +1,5 @@
+Jone, 3000
+Marlon, 5000
+Mike, 2580
+Silver, 3458
+Vasiliy, 5200
